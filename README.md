@@ -12,7 +12,6 @@
 - 👋 Hi, I'm @haseeb2001
 - 👀 I'm interested in full-stack web development and DevOps.
 - 💡 My expertise lies in JavaScript, MERN, ROR, and Python, enabling me to craft innovative applications and websites.
-- 💞️ I'm looking to collaborate on...
 - 💼 Currently, I work as a Full Stack Engineer and have contributed to various exciting projects in diverse industries.
 - 💬 Always eager to collaborate and discuss ideas. Feel free to reach out via haseebmuhammad029@gmail.com or connect with me on LinkedIn.
 
